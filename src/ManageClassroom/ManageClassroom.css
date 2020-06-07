@@ -1,0 +1,191 @@
+#h2{
+    position: absolute;
+width: 245px;
+height: 33px;
+left: 342px;
+top: 117px;
+
+font-family: Avenir Next;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 33px;
+}
+
+#p1{
+    position: absolute;
+width: 162px;
+height: 21px;
+left: 342px;
+top: 235px;
+
+font-family: Avenir Next;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 25px;
+display: flex;
+align-items: center;
+
+color: #000000;
+}
+
+#p2{
+    
+position: absolute;
+width: 162px;
+height: 21px;
+left: 342px;
+top: 339px;
+
+font-family: Avenir Next;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 25px;
+display: flex;
+align-items: center;
+color: #000000;
+}
+
+#p3{
+    
+position: absolute;
+width: 135px;
+height: 21px;
+left: 342px;
+top: 443px;
+
+font-family: Avenir Next;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 25px;
+display: flex;
+align-items: center;
+color: #000000;
+}
+#p4{
+    position: absolute;
+width: 152px;
+height: 21px;
+left: 342px;
+top: 547px;
+
+font-family: Avenir Next;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 25px;
+display: flex;
+align-items: center;
+
+color: #000000;
+}
+
+#text1{
+    position: absolute;
+width: 372.07px;
+height: 40.55px;
+left: 342.01px;
+top: 290.62px;
+
+background: #FFFFFF;
+border: 0.5px solid rgba(0, 0, 0, 0.37);
+box-sizing: border-box;
+border-radius: 4px;
+}
+
+#text2{
+    position: absolute;
+width: 372.07px;
+height: 40.55px;
+left: 342.01px;
+top: 390.62px;
+
+background: #FFFFFF;
+border: 0.5px solid rgba(0, 0, 0, 0.37);
+box-sizing: border-box;
+border-radius: 4px;
+}
+
+#text3{
+    
+position: absolute;
+width: 372.07px;
+height: 40.55px;
+left: 342.01px;
+top: 490.62px;
+
+background: #F2F2F2;
+border: 0.5px solid rgba(0, 0, 0, 0.37);
+box-sizing: border-box;
+border-radius: 4px;
+}
+
+#text4{
+    position: absolute;
+    width: 901px;
+    height: 167px;
+    left: 342px;
+    top: 600px;
+    
+    background: #FFFFFF;
+    border: 0.5px solid rgba(0, 0, 0, 0.37);
+    box-sizing: border-box;
+    border-radius: 4px;
+} 
+
+#button1{
+    position: absolute;
+width: 186px;
+height: 40px;
+left: 342px;
+top: 790px;
+
+background: #FF9C00;
+border-radius: 4px;
+}
+
+#div2{
+    /* position:absolute; */
+    background:#E5E5E5;;
+    width: 665px;
+    height:100px;
+    padding-left: 50% ;
+    padding-top: 40%;
+    margin-left: 15%;
+    margin-top: 5%;;
+    padding-bottom: 0%;
+    margin-bottom: 1%;
+    
+}
+
+#p{
+    position: absolute;
+    width: 987px;
+    height: 22px;
+    left: 342px;
+    top: 178px;
+    
+    font-family: Avenir Next;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    /* identical to box height */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #000000;
+    
+}
+
+
+
+
+
+
+
+
